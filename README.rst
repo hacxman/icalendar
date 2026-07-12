@@ -5,9 +5,13 @@ THIS VERSION IS STILL TAINTED BY uv.
 It has been only partially removed.
 
 Removed nonsense:
+
 * uv
+
 * ruff
+
 * pre-commit
+  
 * vale
 
 
