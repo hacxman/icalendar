@@ -8,6 +8,7 @@ Removed nonsense:
 * uv
 * ruff
 * pre-commit
+* vale
 
 
 ==========================================================
