@@ -1,3 +1,8 @@
+WARNING!
+THIS VERSION IS STILL TAINTED BY uv.
+It has been only partially removed.
+
+
 ==========================================================
 Internet Calendaring and Scheduling (iCalendar) for Python
 ==========================================================

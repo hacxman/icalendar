@@ -101,8 +101,6 @@ dev = [
   {include-group = "docs"},
   {include-group = "formatting"},
   "towncrier>=25.8.0",
-  "tox",
-  "tox-uv",
 ]
 
 test = [
@@ -355,14 +353,3 @@ directory = "chore"
 name = "Other tasks"
 showcontent = false
 
-
-[tool.uv]
-python-preference = "managed"
-
-[tool.uv.sources]
-icalendar = { workspace = true, editable = true }
-
-[tool.uv.workspace]
-members = [
-    ".",
-]
